@@ -1,0 +1,23 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">26sp</dimen>
+    <dimen name="detail_body_text_size">16sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="framelistheight">72dp</dimen>
+    <dimen name="recyclerView_padTop">60dp</dimen>
+    <dimen name="recyclerView_padBottom">28dp</dimen>
+    <dimen name="cardview_margin">4dp</dimen>
+    <dimen name="networkimage_height">120dp</dimen>
+    <dimen name="textview_padding">16dp</dimen>
+    <dimen name="fragmentimage_height">310dp</dimen>
+    <dimen name="view_height">112dp</dimen>
+    <dimen name="nestedscroll_height">270dp</dimen>
+    <dimen name="nestedscroll_margin">5dp</dimen>
+    <dimen name="fab_marginBottom">135dp</dimen>
+    <dimen name="fab_marginEnd">20dp</dimen>
+    <dimen name="imagebutton_width">56dp</dimen>
+</resources>

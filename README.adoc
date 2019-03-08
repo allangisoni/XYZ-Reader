@@ -2,7 +2,7 @@
 
 In this project, you will transform the user experience of a news reading app using Material Design principles. This includes consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces.
 
-![image](https://user-images.githubusercontent.com/10166741/54059596-c42e8500-420a-11e9-918e-5d5e5b4de203.png)
+* ![image](https://user-images.githubusercontent.com/10166741/54059596-c42e8500-420a-11e9-918e-5d5e5b4de203.png)
 
 # License
 
